@@ -1,0 +1,12 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.background-image {
+    background-image: url('путь_к_вашему_изображению.jpg');
+    background-size: cover; /* Растягивает фон на всю ширину и высоту */
+    background-position: center; /* Позиционирует фон по центру */
+    height: 100%;
+}
